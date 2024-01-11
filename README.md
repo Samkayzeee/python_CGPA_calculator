@@ -12,7 +12,7 @@ This Python script is designed to calculate the Cumulative Grade Point Average (
 
 ## Usage
 
-1. Run the script: `python cgpa_calculator.py`
+1. Run the script: `python CGPA.py`
 2. Input the number of semesters.
 3. For each semester, input the grades and credit hours for each course.
 4. View the calculated CGPA at the end.
