@@ -52,4 +52,4 @@ def main():
     print(f"Your CGPA is: {cgpa:.2f}")
 
 
-main()
+main();
