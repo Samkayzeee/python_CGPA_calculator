@@ -8,7 +8,7 @@ def calculate_gpa(marks):
     elif 45 <= marks < 50:
         return 2, "D"
     elif 40 <= marks < 45:
-        return 1, "C"
+        return 1, "E"
     elif 40 > marks >= 0:
         return 0, "F"
     else:
